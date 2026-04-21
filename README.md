@@ -1,5 +1,6 @@
-"<!-- ========================================================= -->
-<!--  ⚡ ZERRO • codeNAMEzerro • GitHub Profile README          -->
+
+Action: file_editor create /app/README.md --file-text "<!-- ========================================================= -->
+<!--  ZERRO • codeNAMEzerro • GitHub Profile README              -->
 <!--  Theme: Dark Hacker / Matrix + Neon Cyberpunk              -->
 <!-- ========================================================= -->
 
@@ -33,7 +34,7 @@
 <img src=\"https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00ffff,100:ff00ff&height=3&section=header&reversal=false\" width=\"100%\"/>
 
 <!-- ========================================================= -->
-<!--  ABOUT ME — TERMINAL STYLE                                  -->
+<!--  ABOUT ME - TERMINAL STYLE                                  -->
 <!-- ========================================================= -->
 
 ## <img src=\"https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif\" width=\"32\"/> `whoami`
@@ -47,20 +48,20 @@
 └─$ cat ./about.txt
 ```
 ```yaml
-👤 Name          : ZERRO
-🆔 Handle        : codeNAMEzerro
-🎓 Education     : AMIKOM Yogyakarta University
-💻 Role          : Full-Stack Developer (in training)
-🌏 Location      : Indonesia
-⚡ Obsession     : Clean code + cyberpunk aesthetics
-🧠 Currently     : Leveling up backend & system design
-🎯 2025 Goal     : Build production-grade apps & ship open source
-🔥 Fun fact      : I debug faster when the lights are off 🖤
+Name          : ZERRO
+Handle        : codeNAMEzerro
+Education     : AMIKOM Yogyakarta University
+Role          : Full-Stack Developer (in training)
+Location      : Indonesia
+Obsession     : Clean code + cyberpunk aesthetics
+Currently     : Leveling up backend & system design
+2025 Goal     : Build production-grade apps & ship open source
+Fun fact      : I debug faster when the lights are off
 ```
 ```bash
 ┌──(zerro㉿matrix)-[~]
 └─$ sudo ./launch_mission.sh
-[+] Status ......... ONLINE  🟢
+[+] Status ......... ONLINE
 [+] Mode ........... BUILD • BREAK • REBUILD
 [+] Coffee ......... ∞
 ```
@@ -99,18 +100,17 @@
 
 <div align=\"center\">
 
-### ⚙️ Languages
+### Languages
 <img src=\"https://skillicons.dev/icons?i=python,js,java,cpp,cs,php,lua,html&theme=dark\" />
 
-### 🧩 Frameworks / Runtime
+### Frameworks / Runtime
 <img src=\"https://skillicons.dev/icons?i=laravel,nodejs,react,tailwind,bootstrap,express&theme=dark\" />
 
-### 🗄️ Database & Tools
+### Database & Tools
 <img src=\"https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,linux,docker&theme=dark\" />
 
 <br/>
 
-<!-- Animated tech badges -->
 <img src=\"https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffd43b\" />
 <img src=\"https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f7df1e\" />
 <img src=\"https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff6f00\" />
@@ -139,7 +139,6 @@
 
 <div align=\"center\">
 
-<!-- Row 1 : Stats + Streak -->
 <a href=\"https://github.com/codeNAMEzerro\">
   <img height=\"180em\" src=\"https://github-readme-stats.vercel.app/api?username=codeNAMEzerro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&count_private=true&include_all_commits=true\" />
   <img height=\"180em\" src=\"https://github-readme-streak-stats.herokuapp.com/?user=codeNAMEzerro&theme=radical&hide_border=true&background=0D1117&stroke=ff00ff&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff\" />
@@ -147,16 +146,14 @@
 
 <br/><br/>
 
-<!-- Row 2 : Top Languages -->
 <a href=\"https://github.com/codeNAMEzerro\">
   <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=codeNAMEzerro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ffff&text_color=ffffff&langs_count=10\" />
 </a>
 
 <br/><br/>
 
-<!-- Row 3 : Activity Graph -->
 <a href=\"https://github.com/codeNAMEzerro\">
-  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=codeNAMEzerro&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9A%A1%20Contribution%20Activity%20Signal\" width=\"98%\" />
+  <img src=\"https://github-readme-activity-graph.vercel.app/graph?username=codeNAMEzerro&bg_color=0D1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Signal\" width=\"98%\" />
 </a>
 
 </div>
@@ -190,7 +187,7 @@
 <br/>
 
 <!-- ========================================================= -->
-<!--  QUOTE / MATRIX VIBE                                        -->
+<!--  QUOTE                                                      -->
 <!-- ========================================================= -->
 
 ## <img src=\"https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif\" width=\"32\"/> `./quote_of_the_day`
@@ -229,9 +226,10 @@
 
 <div align=\"center\">
 
-<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:0f0c29&height=180&section=footer&text=%3C%2F%3E%20%20with%20%E2%9D%A4%EF%B8%8F%20by%20ZERRO&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70\" width=\"100%\"/>
+<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:0f0c29&height=180&section=footer&text=%3C%2F%3E%20%20with%20love%20by%20ZERRO&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70\" width=\"100%\"/>
 
-<sub>⚡ <b>`System online. Stay curious. Break the matrix.`</b> ⚡</sub>
+<sub><b>`System online. Stay curious. Break the matrix.`</b></sub>
 
 </div>
 "
+Observation: Overwrite successful: /app/README.md
