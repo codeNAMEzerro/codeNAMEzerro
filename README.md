@@ -15,7 +15,7 @@
 
 <!-- ========== TYPING SVG ========== -->
 <a href="https://github.com/codeNAMEzerro">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00FFF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%9A%A1+Wake+up+Neo...+the+Matrix+has+you.;%3E+Hi%2C+I'm+ZERRO+%7C+codeNAMEzerro;%3E+Full-Stack+Developer+%7C+Student+%40+AMIKOM+Yogyakarta;%3E+Coding+with+Python+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+PHP+%E2%80%A2+Lua;%3E+%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00FFF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%9A%A1+Halo+Bang...+Ngapain+ke+sini.;%3E+Hi%2C+I'm+ZERRO+%7C+codeNAMEzerro;%3E+Full-Stack+Developer+%7C+Student+%40+AMIKOM+Yogyakarta;%3E+Coding+with+Python+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+PHP+%E2%80%A2+Lua;%3E+%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus" />
 </a>
 
 <br/>
