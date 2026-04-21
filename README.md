@@ -1,10 +1,3 @@
-Sip bang ZERRO! Gw buatin README.md yang super animatif, dark hacker + neon cyberpunk vibe. Banyak statistik auto-update, animasi typing, snake contribution, trophies, dll.
-Action: file_editor create /app/README.md --file-text "<!-- ========================================================= -->
-<!--  ⚡ ZERRO • codeNAMEzerro • GitHub Profile README          -->
-<!--  Theme: Dark Hacker / Matrix + Neon Cyberpunk              -->
-<!-- ========================================================= -->
-
-<!-- ========== NEON HEADER WAVE ========== -->
 <div align=\"center\">
   
 <a href=\"https://github.com/codeNAMEzerro\">
