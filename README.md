@@ -1,3 +1,9 @@
+"<!-- ========================================================= -->
+<!--  ⚡ ZERRO • codeNAMEzerro • GitHub Profile README          -->
+<!--  Theme: Dark Hacker / Matrix + Neon Cyberpunk              -->
+<!-- ========================================================= -->
+
+<!-- ========== NEON HEADER WAVE ========== -->
 <div align=\"center\">
   
 <a href=\"https://github.com/codeNAMEzerro\">
@@ -229,4 +235,3 @@
 
 </div>
 "
-Observation: calling "initialize": sending "initialize": Bad Request
